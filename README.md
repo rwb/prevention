@@ -73,4 +73,20 @@ Today, we consider some key concepts for the semester:
 * risk factors
 * correlation and causation
 
+Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), and an adverse outcome, *y* (i.e., future criminality). A causal relationship between the two can be depicted as:
 
+<p align="left">
+<img src="/charts/f1.png" width="500px">
+</p>
+
+* Next, we consider the possibility that some other factor (call it *z* - i.e., criminal propensity, low self-control, etc.) influences both *x* and *y*:
+
+<p align="left">
+<img src="/charts/f2.png" width="500px">
+</p>
+
+* One way to (partially) resolve this problem is to break the arrow going from *z* to *x*:
+
+<p align="left">
+<img src="/charts/f3.png" width="500px">
+</p>
