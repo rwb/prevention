@@ -64,3 +64,8 @@ behaviors than the treatment school students at the baseline assessment.
 * Study findings: The research found that students in the schools receiving the treatment had lower cigarette smoking rates than students in the control group schools. The patterns persisted at each of the follow-up points.
 
 * Research and policy implications: The study was carried out in the United Kingdom and replication projects would be necessary to determine the generalizability of the results to other settings. The results do support the idea that school-based interventions that are delivered outside the classroom and with peer support may lead to lower rates of smoking initiation. 
+
+#### Lesson 1 - Monday 1/24/22
+
+* Some key terminology for the semester:
+    * prevention
