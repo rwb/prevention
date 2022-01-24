@@ -67,5 +67,10 @@ behaviors than the treatment school students at the baseline assessment.
 
 #### Lesson 1 - Monday 1/24/22
 
-* Some key terminology for the semester:
-    * prevention
+Today, we consider some key concepts for the semester:
+
+* prevention (different types of)
+* risk factors
+* correlation and causation
+
+
