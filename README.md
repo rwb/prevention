@@ -48,61 +48,19 @@ For each report, you should identify a prevention program from this [link](https
 they were young. Interventions that effectively limit the initiation of tobacco smoking during the adolescent years could lead to important lifelong health benefits. Because these interventions attempt to modify the onset and trajectory of substance use among individual young people to achieve life-span outcomes, they are best viewed as developmental prevention.
 
 * Peer-reviewed study: R. Campbell, F. Starkey, J. Holliday, S. Audrey, M. Bloor, N. Parry-Langdon, R. Hughes, and L. Moore (2008).  An 
-informal school-based peer-led intervention for smoking prevention in
-adolescence (ASSIST): a cluster randomised trial. \emph{Lancet}, 
-371:1595-1602.
-\item
-Theoretical motivation: The authors raise the concern that there is 
-an important link between adolescent onset of smoking and later adult 
-smoking and health-related outcomes. They also recognize a long-standing
-pattern in the literature that one's own smoking behavior is correlated
-with peer smoking behavior. This correlation suggests that peers could 
-become trusted messengers to convey health-related information to 
-adolescents. The authors further argue that schools are a potentially
-useful setting for delivering health-related messages about smoking. 
-\item
-Concepts measured in the evaluation: The study measured: (1) variation in
-specially trained staff instruction and peer support in communicating
-smoking related health messages outside the classroom setting; and 
-(2) variation in smoking behaviors at the time of instruction and 
-1-2 years after the instruction occurred. The researchers also measured 
-several demographic, cultural, economic, and social network characteristics 
-of the schools and the students involved in the study.
-\item
-Strength and weakness of measurement strategy: A weakness of the 
-measurement strategy is that a small percentage of the people (less
-than 10\%) were not available to be studied at the 1- and 2-year
-follow-up points. A strength of the measurement strategy is that 2
-different approaches were used to measure cigarette smoking: (1) 
-self-reports of smoking on surveys; and (2) saliva samples to measure
-cotinine levels. The authors reported good agreement between the two
-measurement methods (page 1599).
-\item
-Research design: The study randomly assigned students at some schools 
-to receive the ASSIST intervention (treatment schools) while students
-at other schools were randomly assigned to receive the normal smoking
-education programs that were already in place. Students' tobacco 
-smoking behaviors were measured at the time of the initial intervention
-and then again at 1- and 2-year follow-up points. 
-\item
-Strength and weakness of research design: The random assignment of 
-schools to treatment and control groups is a strength. This ensures
-that the 2 groups of schools are mostly comparable to each other in 
-terms of pretreatment characteristics. A weakness of the study is 
-that despite the randomization, there were a few differences between
-the two groups of schools. One important difference (discussed on page
-1598) is that students in the control schools reported more smoking
+informal school-based peer-led intervention for smoking prevention in adolescence (ASSIST): a cluster randomised trial. *Lancet*, 371:1595-1602.
+
+* Theoretical motivation: The authors raise the concern that there is an important link between adolescent onset of smoking and later adult smoking and health-related outcomes. They also recognize a long-standing pattern in the literature that one's own smoking behavior is correlated with peer smoking behavior. This correlation suggests that peers could become trusted messengers to convey health-related information to adolescents. The authors further argue that schools are a potentially useful setting for delivering health-related messages about smoking. 
+
+* Concepts measured in the evaluation: The study measured: (1) variation in specially trained staff instruction and peer support in communicating smoking related health messages outside the classroom setting; and (2) variation in smoking behaviors at the time of instruction and 1-2 years after the instruction occurred. The researchers also measured several demographic, cultural, economic, and social network characteristics of the schools and the students involved in the study.
+
+* Strength and weakness of measurement strategy: A weakness of the measurement strategy is that a small percentage of the people (less than 10%) were not available to be studied at the 1- and 2-year follow-up points. A strength of the measurement strategy is that 2 different approaches were used to measure cigarette smoking: (1) self-reports of smoking on surveys; and (2) saliva samples to measure cotinine levels. The authors reported good agreement between the two measurement methods (page 1599).
+
+* Research design: The study randomly assigned students at some schools to receive the ASSIST intervention (treatment schools) while students at other schools were randomly assigned to receive the normal smoking education programs that were already in place. Students' tobacco smoking behaviors were measured at the time of the initial intervention and then again at 1- and 2-year follow-up points. 
+
+* Strength and weakness of research design: The random assignment of schools to treatment and control groups is a strength. This ensures that the 2 groups of schools are mostly comparable to each other in terms of pretreatment characteristics. A weakness of the study is that despite the randomization, there were a few differences between the two groups of schools. One important difference (discussed on page 1598) is that students in the control schools reported more smoking
 behaviors than the treatment school students at the baseline assessment.
-\item
-Study findings: The research found that students in the schools
-receiving the treatment had lower cigarette smoking rates than students
-in the control group schools. The patterns persisted at each of the
-follow-up points.
-\item
-Research and policy implications: The study was carried out in the
-United Kingdom and replication projects would be necessary to determine
-the generalizability of the results to other settings. The results do
-support the idea that school-based interventions that are delivered
-outside the classroom and with peer support may lead to lower rates of
-smoking initiation. 
-\end{itemize}
+
+* Study findings: The research found that students in the schools receiving the treatment had lower cigarette smoking rates than students in the control group schools. The patterns persisted at each of the follow-up points.
+
+* Research and policy implications: The study was carried out in the United Kingdom and replication projects would be necessary to determine the generalizability of the results to other settings. The results do support the idea that school-based interventions that are delivered outside the classroom and with peer support may lead to lower rates of smoking initiation. 
