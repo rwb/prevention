@@ -95,30 +95,30 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 
 1. Prevention programs are designed to:
 
-   a. punish offenders
-   b. compensate victims
-   c. reduce harm in the future
-   d. stigmatize people who commit crimes 
+   * a. punish offenders
+   * b. compensate victims
+   * c. reduce harm in the future
+   * d. stigmatize people who commit crimes 
 
 2. Criminologists distinguish between prevention programs that aim to reduce the onset of a problem and programs that aim to reduce the severity or continuation of a problem that has already arisen.
 
-   a. true
-   b. false
+   * a. true
+   * b. false
    
 3. If *x* is a risk factor for *y* then we can say that *x* ___________ *y*.
 
-   a. causes
-   b. may or may not be a cause of
+   * a. causes
+   * b. may or may not be a cause of
 
 4. Which of the following processes indicates a causal connection between delinquent peer exposure and one's own criminality?
 
-   a. selection of friends with similar predispositions
-   b. peer pressure
-   c. coincidental connections between friends
-   d. aging and maturation
-   e. resilience
+   * a. selection of friends with similar predispositions
+   * b. peer pressure
+   * c. coincidental connections between friends
+   * d. aging and maturation
+   * e. resilience
 
 5. Preventive manipulation of correlational risk factors typically yields significant crime reduction benefits.
 
-   a. true
-   b. false
+   * a. true
+   * b. false
