@@ -1,4 +1,4 @@
-### CCJS 451 - Crime &amp; Delinquency Prevention
+### CCJS 451-0201 - Crime &amp; Delinquency Prevention
 
 * Meeting time: Monday-Wednesday-Friday 12-12:50
 * Classroom: VMH 1203
