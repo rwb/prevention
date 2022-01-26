@@ -122,3 +122,29 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 
    * a. true
    * b. false
+
+#### Lesson 2 - Wednesday 1/26/2022
+
+1. How is crime measured?
+2. What is the Uniform Crime Reporting (UCR) Program? ([link](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017))
+3. Identify the crime types covered by the UCR.
+4. Describe the difference between the UCR crime and arrest reporting programs.
+5. What levels of geography are covered by the UCR?
+6. What is the National Crime Victimization Survey (NCVS)?
+7. What is the "dark figure of crime"?
+8. Identify the crime types covered by the NCVS ([link](https://www.bjs.gov/content/pub/pdf/cv17.pdf))
+9. What levels of geography are covered by the NCVS?
+10. What major crime type is covered by the UCR but not by the NCVS?
+11. How can we measure homicides without using UCR data? (see Figures 1-2)
+12. How is a crime rate calculated?
+13. How is a clearance rate calculated?
+14. How is an arrest rate calculated?
+15. In what ways is the UCR limited for studying demographic patterns of crime?
+
+<p align="center">
+<img src="fig1.png" width="800px">
+</p>
+
+<p align="center">
+<img src="fig2.png" width="800px">
+</p>
