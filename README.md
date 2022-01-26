@@ -142,9 +142,9 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 15. In what ways is the UCR limited for studying demographic patterns of crime?
 
 <p align="center">
-<img src="fig1.png" width="800px">
+<img src="charts/fig1.png" width="800px">
 </p>
 
 <p align="center">
-<img src="fig2.png" width="800px">
+<img src="charts/fig2.png" width="800px">
 </p>
