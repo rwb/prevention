@@ -135,7 +135,7 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 #### Lesson 3 - Friday 1/28/2022
 
 8. What is the "dark figure of crime"?
-9. Identify the crime types covered by the NCVS ([link](https://www.bjs.gov/content/pub/pdf/cv17.pdf))
+9. Identify the crime types covered by the NCVS ([link](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/cv20.pdf))
 10. What levels of geography are covered by the NCVS?
 11. What major crime type is covered by the UCR but not by the NCVS?
 12. How can we measure homicides without using UCR data? (see Figures 1-2)
