@@ -134,15 +134,11 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 
 #### Lesson 3 - Friday 1/28/2022
 
-8. What is the "dark figure of crime"?
-9. Identify the crime types covered by the NCVS ([link](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/cv20.pdf))
-10. What levels of geography are covered by the NCVS?
-11. What major crime type is covered by the UCR but not by the NCVS?
-12. How can we measure homicides without using UCR data? (see Figures 1-2)
-13. How is a crime rate calculated?
-14. How is a clearance rate calculated?
-15. How is an arrest rate calculated?
-16. In what ways is the UCR limited for studying demographic patterns of crime?
+7. What is the "dark figure of crime"?
+8. Identify the crime types covered by the NCVS ([link](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/cv20.pdf))
+9. What levels of geography are covered by the NCVS?
+10. What major crime type is covered by the UCR but not by the NCVS?
+11. How can we measure homicides without using UCR data? (see figures below)
 
 <p align="center">
 <img src="charts/fig1.png" width="800px">
@@ -151,3 +147,12 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 <p align="center">
 <img src="charts/fig2.png" width="800px">
 </p>
+
+#### Lesson 4 - Monday 1/31/22
+
+12. How is a crime rate calculated?
+13. How is a clearance rate calculated?
+14. How is an arrest rate calculated?
+15. In what ways is the UCR limited for studying demographic patterns of crime?
+16. What is the hierarchy rule?
+17. How might an over-time crime change statistic be misleading if it is based on police records?
