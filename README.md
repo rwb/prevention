@@ -63,7 +63,32 @@ behaviors than the treatment school students at the baseline assessment.
 
 * Study findings: The research found that students in the schools receiving the treatment had lower cigarette smoking rates than students in the control group schools. The patterns persisted at each of the follow-up points.
 
-* Research and policy implications: The study was carried out in the United Kingdom and replication projects would be necessary to determine the generalizability of the results to other settings. The results do support the idea that school-based interventions that are delivered outside the classroom and with peer support may lead to lower rates of smoking initiation. 
+* Research and policy implications: The study was carried out in the United Kingdom and replication projects would be necessary to determine the generalizability of the results to other settings. The results do support the idea that school-based interventions that are delivered outside the classroom and with peer support may lead to lower rates of smoking initiation.
+
+#### Course Outline
+
+* Course overview.
+* Methodology overview.
+* Study 1: Hot spots policing ([link](https://static1.squarespace.com/static/5d809efd96f5c906aaf61f3d/t/601c032236cf8d4a7ccd459f/1612448549602/General+deterrent+effects+of+police+patrol+in+crime+HOT+SPOTS+A+randomized%2C+controlled+trial.pdf))
+* Study 2: Kansas City gun experiment ([link](https://www.ojp.gov/pdffiles/kang.pdf))
+* Exam #1: Friday 2/18/22
+* Study 3: Treating vacant lots ([link](https://www.pnas.org/content/115/12/2946))
+* First Prevention Program Assessment Due: Wednesday 3/2/22 
+* Study 4: Moving to opportunity ([link](https://www-jstor-org.proxy-um.researchport.umd.edu/stable/pdf/25098732.pdf?refreqid=excelsior%3A11eae88cd2d56049f7ec2eeb467ca160&ab_segments=&origin=))
+* Study 5: Communities that care ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
+* Exam #2: Monday 3/14/22
+* Study 6: Cambridge-Somerville youth study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf))
+* Study 7: Long-term effects of preschool programming ([link](\href{https://link.springer.com/content/pdf/10.1007%2Fs11292-013-9190-3.pdf))
+* Spring Break: 3/21/22-3/25/22
+* Study 8: Baltimore City drug court ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf))
+* Second Prevention Program Assessment Due: Monday 4/4/22
+* Study 9: Drug Abuse Resistance Education (DARE) ([link](https://ajph-aphapublications-org.proxy-um.researchport.umd.edu/doi/epdf/10.2105/AJPH.84.9.1394))
+* Exam \#3: Wednesday 4/13/22
+* Study 10: Street lighting and crime in New York ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
+* Study 11: Target hardening and residential burglary ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
+* Study 12: Retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
+* Last Class Day Monday 5/9/22
+* Exam \#4: Tuesday 5/17/22; 9:00-10:00am
 
 #### Lesson 1 - Monday 1/24/22
 
