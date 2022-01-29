@@ -78,7 +78,7 @@ behaviors than the treatment school students at the baseline assessment.
 * Study 5: Communities that care ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
 * Exam #2: Monday 3/14/22
 * Study 6: Cambridge-Somerville youth study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf))
-* Study 7: Long-term effects of preschool programming ([link](\href{https://link.springer.com/content/pdf/10.1007%2Fs11292-013-9190-3.pdf))
+* Study 7: Long-term effects of preschool programming ([link](https://link.springer.com/content/pdf/10.1007%2Fs11292-013-9190-3.pdf))
 * Spring Break: 3/21/22-3/25/22
 * Study 8: Baltimore City drug court ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf))
 * Second Prevention Program Assessment Due: Monday 4/4/22
