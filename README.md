@@ -181,3 +181,26 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 15. In what ways is the UCR limited for studying demographic patterns of crime?
 16. What is the hierarchy rule?
 17. How might an over-time crime change statistic be misleading if it is based on police records?
+18. How might a between-city crime comparison be misleading if it is based on police records?
+
+```Rout
+Example 1:
+
+* Suppose we have a single city with 7710 residential burglaries reported to the police in year 1. 
+* This same city has 7550 residential burglaries reported to the police in year 2.
+* Now, suppose the reporting rate for residential burglaries decreased from 53.1% to 47.2% (year 1 to year 2).
+* Then, the actual number of residential burglaries in year 1 is 7710/0.472 = 14,520
+* The actual number of residential burglaries in year 2 is 7550/0.531 = 15,996
+```
+
+```Rout
+Example 2:
+
+* Suppose we have two cities and both cities have 100,000 population.
+* One city has 125,000 people inside the city each day (potential robbery targets)
+* The other city has 175,000 people inside the city each day.
+* Now, suppose each city has 150 robberies in a particular month.
+* Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
+* 150/125000 x 100,000 = 120 per 100K population
+* 150/175000 x 100,000 = 86 per 100K population.
+```
