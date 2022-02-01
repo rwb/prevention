@@ -83,12 +83,12 @@ behaviors than the treatment school students at the baseline assessment.
 * Study 8: Baltimore City drug court ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf))
 * Second Prevention Program Assessment Due: Monday 4/4/22
 * Study 9: Drug Abuse Resistance Education (DARE) ([link](https://ajph-aphapublications-org.proxy-um.researchport.umd.edu/doi/epdf/10.2105/AJPH.84.9.1394))
-* Exam \#3: Wednesday 4/13/22
+* Exam #3: Wednesday 4/13/22
 * Study 10: Street lighting and crime in New York ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
 * Study 11: Target hardening and residential burglary ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
 * Study 12: Retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
 * Last Class Day Monday 5/9/22
-* Exam \#4: Tuesday 5/17/22; 9:00-10:00am
+* Exam #4: Tuesday 5/17/22; 9:00-10:00am
 
 #### Lesson 1 - Monday 1/24/22
 
@@ -178,23 +178,9 @@ Example: suppose we have a risk factor, *x* (i.e., delinquent peer exposure), an
 12. How is a crime rate calculated?
 13. How is a clearance rate calculated?
 14. How is an arrest rate calculated?
-15. In what ways is the UCR limited for studying demographic patterns of crime?
-16. What is the hierarchy rule?
-17. How might an over-time crime change statistic be misleading if it is based on police records?
-18. How might a between-city crime comparison be misleading if it is based on police records?
 
 ```Rout
-Example 1:
-
-* Suppose we have a single city with 7710 residential burglaries reported to the police in year 1. 
-* This same city has 7550 residential burglaries reported to the police in year 2.
-* Now, suppose the reporting rate for residential burglaries decreased from 53.1% to 47.2% (year 1 to year 2).
-* Then, the actual number of residential burglaries in year 1 is 7710/0.472 = 14,520
-* The actual number of residential burglaries in year 2 is 7550/0.531 = 15,996
-```
-
-```Rout
-Example 2:
+Example:
 
 * Suppose we have two cities and both cities have 100,000 population.
 * One city has 125,000 people inside the city each day (potential robbery targets)
@@ -203,4 +189,23 @@ Example 2:
 * Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
 * 150/125000 x 100,000 = 120 per 100K population
 * 150/175000 x 100,000 = 86 per 100K population.
+```
+
+#### Lesson 5 - Wednesday 2/2/22
+
+*Note*: You can go ahead and begin reading our first assigned article of the semester ([link](https://static1.squarespace.com/static/5d809efd96f5c906aaf61f3d/t/601c032236cf8d4a7ccd459f/1612448549602/General+deterrent+effects+of+police+patrol+in+crime+HOT+SPOTS+A+randomized%2C+controlled+trial.pdf)). We will begin discussing that paper on Friday 2/4. Also note that Friday 2/4 is the end of the drop/add period so we will plan to discuss the requirements and expectations for the prevention reports on Monday 2/7.
+
+15. In what ways is the UCR limited for studying demographic patterns of crime?
+16. What is the hierarchy rule?
+17. How might an over-time crime change statistic be misleading if it is based on police records?
+18. How might a between-city crime comparison be misleading if it is based on police records?
+
+```Rout
+Example:
+
+* Suppose we have a single city with 7710 residential burglaries reported to the police in year 1. 
+* This same city has 7550 residential burglaries reported to the police in year 2.
+* Now, suppose the reporting rate for residential burglaries decreased from 53.1% to 47.2% (year 1 to year 2).
+* Then, the actual number of residential burglaries in year 1 is 7710/0.472 = 14,520
+* The actual number of residential burglaries in year 2 is 7550/0.531 = 15,996
 ```
