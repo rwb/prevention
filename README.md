@@ -195,17 +195,43 @@ Example:
 
 *Note*: You can go ahead and begin reading our first assigned article of the semester ([link](https://static1.squarespace.com/static/5d809efd96f5c906aaf61f3d/t/601c032236cf8d4a7ccd459f/1612448549602/General+deterrent+effects+of+police+patrol+in+crime+HOT+SPOTS+A+randomized%2C+controlled+trial.pdf)). We will begin discussing that paper on Friday 2/4. Also note that Friday 2/4 is the end of the drop/add period so we will plan to discuss the requirements and expectations for the prevention reports on Monday 2/7.
 
-15. In what ways is the UCR limited for studying demographic patterns of crime?
-16. What is the hierarchy rule?
-17. How might an over-time crime change statistic be misleading if it is based on police records?
-18. How might a between-city crime comparison be misleading if it is based on police records?
+15. How does police participation vary between the UCR crime and arrest reporting programs?
+16. In what ways is the UCR limited for studying demographic patterns of crime?
+17. What is the UCR's hierarchy rule?
+18. If an aggravated assault co-occurs with a burglary which event is counted for the UCR?
+19. Which major crime occurs most frequently in both the UCR and the NCVS?
+20. What denominator does the UCR use for crime and arrest rates?
+21. What denominator does the NCVS use for personal victimization rates?
+22. What denominator does the NCVS use for property victimization rates?
+23. Which NCVS property crime consistently has the lowest police reporting rate?
+24. Which NCVS property crime consistently has the highest police reporting rate?
+25. What do we know about commercial robbery and burglary reporting rates from the NCVS?
+26. How might an over-time crime change statistic be misleading if it is based on police records? (see example 1 below)
+27. How might a between-city crime comparison be misleading if it is based on police records? (see example 2 below)
 
 ```Rout
-Example:
+Example 1:
 
-* Suppose we have a single city with 7710 residential burglaries reported to the police in year 1. 
-* This same city has 7550 residential burglaries reported to the police in year 2.
-* Now, suppose the reporting rate for residential burglaries decreased from 53.1% to 47.2% (year 1 to year 2).
-* Then, the actual number of residential burglaries in year 1 is 7710/0.472 = 14,520
-* The actual number of residential burglaries in year 2 is 7550/0.531 = 15,996
+* Suppose we have a single city with 7700 residential burglaries reported to the police in year 1. 
+* This same city has 7500 residential burglaries reported to the police in year 2.
+* Now, suppose the reporting rate for residential burglaries decreased from 53% to 47% (year 1 to year 2).
+* Then, the actual number of residential burglaries in year 1 is 7700/0.530 = 14,528
+* And, the actual number of residential burglaries in year 2 is 7500/0.470 = 15,957
+```
+
+```Rout
+Example 2:
+
+* Suppose we have a 2 cities, one, C1, with 300K households and the second, C2, with 200K households.
+* C1 has 3700 residential burglaries reported to the police and C2 has 2300 residential burglaries reported to the police.
+* The burglary reporting rate in C1 is 57% while the reporting rate in C2 is 49%.
+* Which city has the higher UCR residential burglary rate?
+* Which city has the higher real residential burglary rate?
+* Solution: 
+  - C1 has 3700/0.57 = 6491 burglaries
+  - C2 has 2300/0.49 = 4694 burglaries
+  - C1's UCR residential burglary rate = 3700/300K x 100K = 1233
+  - C2's UCR residential burglary rate = 2300/200K x 100K = 1150
+  - C1's real residential burglary rate = 6491/300K x 100K = 2164
+  - C2's real residential burglary rate = 4694/300K x 100K = 2347
 ```
