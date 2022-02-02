@@ -209,18 +209,15 @@ Example:
 26. How might an over-time crime change statistic be misleading if it is based on police records? (see example 1 below)
 27. How might a between-city crime comparison be misleading if it is based on police records? (see example 2 below)
 
-```Rout
-Example 1:
+##### Example 1:
 
 * Suppose we have a single city with 7700 residential burglaries reported to the police in year 1. 
 * This same city has 7500 residential burglaries reported to the police in year 2.
 * Now, suppose the reporting rate for residential burglaries decreased from 53% to 47% (year 1 to year 2).
 * Then, the actual number of residential burglaries in year 1 is 7700/0.530 = 14,528
 * And, the actual number of residential burglaries in year 2 is 7500/0.470 = 15,957
-```
 
-```Rout
-Example 2:
+##### Example 2:
 
 * Suppose we have a 2 cities, one, C1, with 300K households and the second, C2, with 200K households.
 * C1 has 3700 residential burglaries reported to the police.
@@ -235,4 +232,3 @@ Example 2:
   - C2's UCR residential burglary rate = 2300/200K x 100K = 1150
   - C1's real residential burglary rate = 6491/300K x 100K = 2164
   - C2's real residential burglary rate = 4694/300K x 100K = 2347
-```
