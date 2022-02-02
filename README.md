@@ -225,7 +225,7 @@ Example 2:
 * Suppose we have a 2 cities, one, C1, with 300K households and the second, C2, with 200K households.
 * C1 has 3700 residential burglaries reported to the police.
 * C2 has 2300 residential burglaries reported to the police.
-* The burglary reporting rate in C1 is 57% while the reporting rate in C2 is 49%.
+* The burglary report-to-police rate in C1 is 57% while the reporting rate in C2 is 49%.
 * Which city has the higher UCR residential burglary rate?
 * Which city has the higher real residential burglary rate?
 * Solution: 
