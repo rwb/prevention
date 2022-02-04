@@ -223,13 +223,13 @@ Example:
 * C1 has 3700 residential burglaries reported to the police.
 * C2 has 2300 residential burglaries reported to the police.
 * The burglary report-to-police rate in C1 is 57% while the reporting rate in C2 is 49%.
-* Which city has the higher UCR residential burglary rate?
+* Which city has the higher police-based residential burglary rate?
 * Which city has the higher real residential burglary rate?
 * Solution: 
   - C1 has 3700/0.57 = 6491 burglaries
   - C2 has 2300/0.49 = 4694 burglaries
-  - C1's UCR residential burglary rate = 3700/300K x 100K = 1233
-  - C2's UCR residential burglary rate = 2300/200K x 100K = 1150
+  - C1's police-known residential burglary rate = 3700/300K x 100K = 1233
+  - C2's police-known residential burglary rate = 2300/200K x 100K = 1150
   - C1's real residential burglary rate = 6491/300K x 100K = 2164
   - C2's real residential burglary rate = 4694/300K x 100K = 2347
 
