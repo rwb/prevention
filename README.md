@@ -248,16 +248,21 @@ Example:
 36. Describe the main conclusion of the KCPPE?
 37. What did Sherman and Weisburd mean by the word "power"?
 38. What factors were thought to reduce the power of the KCPPE?
+
+<p align="center">
+<img src="charts/fig5.png" width="550px">
+</p>
+
+#### Lesson 7 - Friday 2/4/22
+
+*Note*: today we will: (1) discuss the prevention reports and; (2) continue our review of the Sherman and Weisburd study.
+
 39. Considering other studies of policing and street crime, do the KCPPE results seem typical?
 40. What does the phrase "dose-response curve" mean?
 41. What was the unit of analysis in the KCPPE?
 42. What unit of analysis did Sherman and Weisburd advocate?
 43. What was Fielding's (1751) critical observation?
 44. Describe the empirical result that motivates the concept of a "hot spot".
-
-<p align="center">
-<img src="charts/fig5.png" width="550px">
-</p>
 
 <p align="center">
 <img src="charts/fig4a.png" width="550px">
