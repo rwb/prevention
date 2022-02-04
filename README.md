@@ -253,6 +253,7 @@ Example:
 41. What was the unit of analysis in the KCPPE?
 42. What unit of analysis did Sherman and Weisburd advocate?
 43. What was Fielding's (1751) critical observation?
+44. Describe the empirical result that motivates the concept of a "hot spot".
 
 <p align="center">
 <img src="charts/fig5.png" width="550px">
