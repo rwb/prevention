@@ -232,3 +232,24 @@ Example:
   - C2's UCR residential burglary rate = 2300/200K x 100K = 1150
   - C1's real residential burglary rate = 6491/300K x 100K = 2164
   - C2's real residential burglary rate = 4694/300K x 100K = 2347
+
+#### Lesson 6 - Friday 2/4/22
+
+*Note*: Today, we begin reviewing our first assigned article of the semester ([link](https://static1.squarespace.com/static/5d809efd96f5c906aaf61f3d/t/601c032236cf8d4a7ccd459f/1612448549602/General+deterrent+effects+of+police+patrol+in+crime+HOT+SPOTS+A+randomized%2C+controlled+trial.pdf)). We will discuss the prevention reports on Monday.
+
+28. What was the research goal of the Kansas City Preventive Patrol Experiment (KCPPE)?
+29. What was the independent variable in the KCPPE?
+30. What was the outcome variable in the KCPPE?
+31. What do we mean by the term "routine preventive patrol"?
+32. Describe the three experimental groups in the KCPPE.
+33. Was preventive patrol dosage reliably measured in the KCPPE?
+34. Is there more than one way to measure police patrol dosage?
+35. How was the outcome measured in the KCPPE?
+36. Describe the main conclusion of the KCPPE?
+37. What did Sherman and Weisburd mean by the word "power"?
+38. What factors were thought to reduce the power of the KCPPE?
+39. Considering other studies of policing and street crime, do the KCPPE results seem typical?
+40. What does the phrase "dose-response curve" mean?
+41. What was the unit of analysis in the KCPPE?
+42. What unit of analysis did Sherman and Weisburd advocate?
+43. What was Fielding's (1751) critical observation?
