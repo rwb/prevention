@@ -253,7 +253,7 @@ Example:
 <img src="charts/fig5.png" width="550px">
 </p>
 
-#### Lesson 7 - Friday 2/4/22
+#### Lesson 7 - Monday 2/7/22
 
 *Note*: today we will: (1) discuss the prevention reports and; (2) continue our review of the Sherman and Weisburd study.
 
