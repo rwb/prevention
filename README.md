@@ -265,7 +265,7 @@ Example:
 
 #### Lesson 8 - Wednesday 2/9/22
 
-45. Describe the empirical result that motivates the concept of a "hot spot".
+44. Describe the empirical result that motivates the concept of a "hot spot".
 
 <p align="center">
 <img src="charts/fig4a.png" width="550px">
