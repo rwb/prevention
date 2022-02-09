@@ -266,6 +266,20 @@ Example:
 #### Lesson 8 - Wednesday 2/9/22
 
 44. Describe the empirical result that motivates the concept of a "hot spot".
+45. Identify and describe the three principal concepts of deterrence theory.
+46. What problem could arise as a result of focusing police resources on hot spots?
+47. How does a hot spots patrol strategy address the power concerns in police-crime studies?
+48. What measurement problem is not improved by a study of hot spots patrol?
+49. What city did Sherman and Weisburd study in their research on hot spots?
+50. What political considerations arose in the approval of the hot spots patrol study?
+51. How was a hot spot defined for purposes of Sherman and Weisburd's study?
+52. What research design was used to evaluate the effects of intensive hot spot patrol in Sherman and Weisburd's study?
+53. Describe the "noise" problem identified by Sherman and Weisburd?
+54. Why is the "noise" problem not a threat to the validity of the 
+55. What do Sherman and Weisburd mean by the use of the term "internal validity"?
+56. What were the three goals of the address cluster inspections?
+57. Why was it important that an external researcher randomized the hot spots to treatment and control conditions?
+58. What did a typical hot spot look like?
 
 <p align="center">
 <img src="charts/fig4a.png" width="550px">
