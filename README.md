@@ -274,6 +274,13 @@ Example:
 50. What measurement problem is not improved by a study of hot spots patrol?
 51. What city did Sherman and Weisburd study in their research on hot spots?
 52. What political considerations arose in the approval of the hot spots patrol study?
+
+<p align="center">
+<img src="charts/fig4a.png" width="550px">
+</p>
+
+#### Lesson 9 - Friday 2/11/22
+
 53. How was a hot spot defined for purposes of Sherman and Weisburd's study?
 54. What research design was used to evaluate the effects of intensive hot spot patrol in Sherman and Weisburd's study?
 55. Describe the "noise" problem identified by Sherman and Weisburd?
@@ -282,7 +289,3 @@ Example:
 58. What were the three goals of the address cluster inspections?
 59. Why was it important that an external researcher randomized the hot spots to treatment and control conditions?
 60. What did a typical hot spot look like?
-
-<p align="center">
-<img src="charts/fig4a.png" width="550px">
-</p>
