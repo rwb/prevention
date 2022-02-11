@@ -282,10 +282,15 @@ Example:
 #### Lesson 9 - Friday 2/11/22
 
 53. How was a hot spot defined for purposes of Sherman and Weisburd's study?
-54. What research design was used to evaluate the effects of intensive hot spot patrol in Sherman and Weisburd's study?
-55. Describe the "noise" problem identified by Sherman and Weisburd?
-56. Why is the "noise" problem not a threat to the validity of the 
-57. What do Sherman and Weisburd mean by the use of the term "internal validity"?
-58. What were the three goals of the address cluster inspections?
-59. Why was it important that an external researcher randomized the hot spots to treatment and control conditions?
-60. What did a typical hot spot look like?
+54. What did Sherman and Weisburd mean by the term "hard crime calls"?
+55. What research design was used to evaluate the effects of intensive hot spot patrol in Sherman and Weisburd's study?
+56. Describe the "noise" problem identified by Sherman and Weisburd?
+57. Why is the "noise" problem not a threat to the validity of the 
+58. What do Sherman and Weisburd mean by the use of the term "internal validity"?
+59. What were the three goals of the address cluster inspections?
+60. Why was it important that an external researcher randomized the hot spots to treatment and control conditions?
+61. What did a typical hot spot look like?
+62. At what time of the day did hot spots typically receive the most calls for service?
+63. What time period of the day were the experimental conditions maintained?
+64. What did Sherman and Weisburd mean by the term "crackdown-backoff pattern"?
+65. Did the experimental condition mostly affect the quantity or the quality of the police presence?
