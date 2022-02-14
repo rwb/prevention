@@ -304,6 +304,9 @@ Example:
 69. What were the two key outcomes in the Minneapolis hot spots patrol study?
 70. Does a study like the one conducted in Minneapolis raise safety issues for observers?
 71. How long did the hot spots patrol study last?
+
+#### Lesson 11 - Wednesday 2/16/22
+
 72. Was there a measurable difference in the amount of police coverage between the two groups?
 73. What experimental complication arose during the summer of 1989?
 74. What measurement problem arose in the fall of 1989?
