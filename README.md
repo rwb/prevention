@@ -321,6 +321,7 @@ Example:
 
 * Example Questions
 
+```rout
 1. Which of the following crimes occurs most frequently in the NCVS?
 
 a. robbery
@@ -367,3 +368,4 @@ b. false
 a. the intervention was criminogenic
 b. the intervention was ineffective
 c. we can't draw any conclusions about the intervention's effects
+```
