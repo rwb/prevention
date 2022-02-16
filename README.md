@@ -316,6 +316,8 @@ Example:
 76. How did the analysis results change when the implementation deteriorated?
 77. How did the outcome patterns vary between the hard and soft crime calls?
 78. Were the study results consistent with the theoretical predictions?
+79. Was there evidence of displacement?
+80. Do post-intervention increases in crime contradict the idea of effective treatment?
 
 *Note*: you can read about the rating that hot spots policing interventions received at [Crime Solutions](https://crimesolutions.ojp.gov/ratedpractices/8).
 
