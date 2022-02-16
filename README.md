@@ -317,4 +317,4 @@ Example:
 77. How did the outcome patterns vary between the hard and soft crime calls?
 78. Were the study results consistent with the theoretical predictions?
 
-*Note*: you can read about the rating that hot spots policing interventions received at [Crime Solutions](https://crimesolutions.ojp.gov/ratedpractices/8#pd).
+*Note*: you can read about the rating that hot spots policing interventions received at [Crime Solutions](https://crimesolutions.ojp.gov/ratedpractices/8).
