@@ -318,3 +318,52 @@ Example:
 78. Were the study results consistent with the theoretical predictions?
 
 *Note*: you can read about the rating that hot spots policing interventions received at [Crime Solutions](https://crimesolutions.ojp.gov/ratedpractices/8).
+
+* Example Questions
+
+1. Which of the following crimes occurs most frequently in the NCVS?
+
+a. robbery
+b. burglary
+c. larceny
+d. aggravated assault
+
+2. Which level of geography was the NCVS designed to cover?
+
+a. state
+b. county
+c. city
+d. national
+e. metropolitan area
+
+3. The "dark figure of crime" problem is caused by:
+
+a. the hierarchy rule
+b. ambiguity about the size of the population
+c. difficulties in counting homicides
+d. crimes not reported to the police
+e. simple assaults which are counted by the NCVS but not the UCR index
+
+4. If police-counted crime statistics change over time, then we know that crime has changed over that time period.
+
+a. true
+b. false
+
+5. An important problem in the Kansas City Preventive Patrol Experiment was:
+
+a. many crime victims were unwilling to speak with the researchers
+b. the police officers resisted participating in the study
+c. the exact dosage of police patrol coverage was not well measured
+d. there was no significant difference in the patrol coverage for the different beats
+e. the follow-up period wasn't long enough
+
+6. The Minneapolis hot spot study by Sherman and Weisburd found strong evidence of displacement.
+
+a. true
+b. false
+
+7. If crime increases after an intervention occurs, that evidence demonstrates:
+
+a. the intervention was criminogenic
+b. the intervention was ineffective
+c. we can't draw any conclusions about the intervention's effects
