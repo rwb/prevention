@@ -307,10 +307,12 @@ Example:
 
 #### Lesson 11 - Wednesday 2/16/22
 
+* Reminder: our first exam will be on Friday 2/18/22. We will have some review time for the exam in today's class.
+
 72. Was there a measurable difference in the amount of police coverage between the two groups?
 73. What experimental complication arose during the summer of 1989?
 74. What measurement problem arose in the fall of 1989?
 75. What was the authors' rationale for preferring an analysis cutoff date of July 31, 1989?
 76. How did the analysis results change when the implementation deteriorated?
 77. How did the outcome patterns vary between the hard and soft crime calls?
-78. Were the disorder results consistent with the theoretical predictions?
+78. Were the study results consistent with the theoretical predictions?
