@@ -285,7 +285,7 @@ Example:
 54. What did Sherman and Weisburd mean by the term "hard crime calls"?
 55. What research design was used to evaluate the effects of intensive hot spot patrol in Sherman and Weisburd's study?
 56. Describe the "noise" problem identified by Sherman and Weisburd?
-57. Why is the "noise" problem not a threat to the validity of the 
+57. Why is the "noise" problem not a threat to the validity of the Minneapolis hot spots study?
 58. What do Sherman and Weisburd mean by the use of the term "internal validity"?
 59. What were the three goals of the address cluster inspections?
 60. Why was it important that an external researcher randomized the hot spots to treatment and control conditions?
