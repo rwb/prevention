@@ -374,6 +374,8 @@ c. we can't draw any conclusions about the intervention's effects
 
 #### Lesson 12 - Monday 2/21/22 - Note: Exam 2 Starts Here
 
+* Reminder: your first prevention reports are due next Wednesday 3/2/22. Please bring a paper copy with you to class
+* Your first exams are mostly graded. I will post grades by end of the day on Wednesday.
 * We now turn our attention to the Kansas City Gun Experiment ([link](https://www.ojp.gov/pdffiles/kang.pdf)).
 
 81. What is a potential response to the concern that there are too many guns in circulation?
