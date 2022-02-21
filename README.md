@@ -371,3 +371,19 @@ a. the intervention was criminogenic
 b. the intervention was ineffective
 c. we can't draw any conclusions about the intervention's effects
 ```
+
+#### Lesson 12 - Monday 2/21/22 - Note: Exam 2 Starts Here
+
+* We now turn our attention to the Kansas City Gun Experiment ([link](https://www.ojp.gov/pdffiles/kang.pdf)).
+
+81. What is a potential response to the concern that there are too many guns in circulation?
+82. Describe the main hypothesis of the Kansas City Gun Experiment.
+83. What is the difference between a theory and a hypothesis?
+84. What two theories can be used to generate the hypothesis that was tested in the Kansas City Gun Experiment?
+85. Was the Kansas City Gun Experiment able to discern which of the two gun-crime theories was correct?
+86. What is the critical feature of the area that received the intervention (i.e., the target beat)?
+87. What was the main objective of the intervention in the Kansas City Gun Experiment?
+88. In what way, does the Kansas City Gun Experiment fall short of the definition of a true experimental design?
+89. Would confirmation of the Kansas City Gun Experiment's hypothesis prove that gun seizures reduce gun crime? Why or why not?
+90. What constitutional question is at the center of the Kansas City Gun Experiment?
+91. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
