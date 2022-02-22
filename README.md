@@ -385,7 +385,10 @@ c. we can't draw any conclusions about the intervention's effects
 85. Was the Kansas City Gun Experiment able to discern which of the two gun-crime theories was correct?
 86. What is the critical feature of the area that received the intervention (i.e., the target beat)?
 87. What was the main objective of the intervention in the Kansas City Gun Experiment?
+
+#### Lesson 13 - Wednesday 2/23/22
+
 88. In what way, does the Kansas City Gun Experiment fall short of the definition of a true experimental design?
 89. Would confirmation of the Kansas City Gun Experiment's hypothesis prove that gun seizures reduce gun crime? Why or why not?
-90. What constitutional question is at the center of the Kansas City Gun Experiment?
-91. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
+91. What constitutional question is at the center of the Kansas City Gun Experiment?
+92. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
