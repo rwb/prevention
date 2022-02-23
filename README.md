@@ -391,16 +391,17 @@ c. we can't draw any conclusions about the intervention's effects
 88. In what way, does the Kansas City Gun Experiment fall short of the definition of a true experimental design?
 89. Would confirmation of the Kansas City Gun Experiment's hypothesis prove that gun seizures reduce gun crime? Why or why not?
 90. Is the Kansas City Gun Experiment an exercise in deductive or inductive science? Explain.
-91. What constitutional question is at the center of the Kansas City Gun Experiment?
-92. What burden of proof is required to justify an arrest?
-93. What burden of proof is required to justify a stop?
-94. What is a consent search?
-95. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
-96. What occurred as a result of the intervention in the target beat?
-97. Why was the experiment interrupted?
-98. Did gun seizures change in the target beat?
-99. Did gun seizures change in the control beat?
-100. Did gun crimes change in the target beat?
-101. Did gun crimes change in the control beat?
-102. How did the researchers investigate the possibility of displacement?
-103. Did the researchers find any significant evidence of displacement?
+91. Why was the experiment interrupted?
+92. What constitutional question is at the center of the Kansas City Gun Experiment?
+93. What burden of proof is required to justify an arrest?
+94. What burden of proof is required to justify a stop?
+95. Describe the plain view doctrine.
+96. What is a consent search?
+97. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
+98. What occurred as a result of the intervention in the target beat?
+99. Did gun seizures change in the target beat?
+100. Did gun seizures change in the control beat?
+101. Did gun crimes change in the target beat?
+102. Did gun crimes change in the control beat?
+103. How did the researchers investigate the possibility of displacement?
+104. Did the researchers find any significant evidence of displacement?
