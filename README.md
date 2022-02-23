@@ -395,13 +395,11 @@ c. we can't draw any conclusions about the intervention's effects
 92. What constitutional question is at the center of the Kansas City Gun Experiment?
 93. What burden of proof is required to justify an arrest?
 94. What burden of proof is required to justify a stop?
-95. Describe the plain view doctrine.
-96. What is a consent search?
-97. What kinds of gun searches in the community are prohibited by the 4th/14th Amendments?
-98. What occurred as a result of the intervention in the target beat?
-99. Did gun seizures change in the target beat?
-100. Did gun seizures change in the control beat?
-101. Did gun crimes change in the target beat?
-102. Did gun crimes change in the control beat?
-103. How did the researchers investigate the possibility of displacement?
-104. Did the researchers find any significant evidence of displacement?
+95. What is a consent search?
+96. What occurred as a result of the intervention in the target beat?
+97. Did gun seizures change in the target beat?
+98. Did gun seizures change in the control beat?
+99. Did gun crimes change in the target beat?
+100. Did gun crimes change in the control beat?
+101. How did the researchers investigate the possibility of displacement?
+102. Did the researchers find any significant evidence of displacement?
