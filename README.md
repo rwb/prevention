@@ -390,6 +390,7 @@ c. we can't draw any conclusions about the intervention's effects
 
 88. In what way, does the Kansas City Gun Experiment fall short of the definition of a true experimental design?
 89. Would confirmation of the Kansas City Gun Experiment's hypothesis prove that gun seizures reduce gun crime? Why or why not?
+90. Is the Kansas City Gun Experiment an exercise in deductive or inductive science? Explain.
 91. What constitutional question is at the center of the Kansas City Gun Experiment?
 92. What burden of proof is required to justify an arrest?
 93. What burden of proof is required to justify a stop?
