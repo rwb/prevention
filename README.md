@@ -393,6 +393,9 @@ c. we can't draw any conclusions about the intervention's effects
 90. Is the Kansas City Gun Experiment an exercise in deductive or inductive science? Explain.
 91. Why was the experiment interrupted?
 92. What constitutional question is at the center of the Kansas City Gun Experiment?
+
+#### Lesson 14 - Friday 2/25/22
+
 93. What burden of proof is required to justify an arrest?
 94. What burden of proof is required to justify a stop?
 95. What is a consent search?
