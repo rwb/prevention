@@ -32,14 +32,14 @@ Each exam will be a combination of multiple choice and true false questions. We 
 For each report, you should identify a prevention program from this [link](https://crimesolutions.ojp.gov/programs-practices) that is not discussed in class. If you have any questions about whether the program you've identified is a prevention program or whether the peer-reviewed study you're planning to use is appropriate, you should consult with me (so you don't lose points). Your written submission will then be graded according to the following equally weighted 10-point rubric: 
 
 * Describe the problem the program is targeting for prevention. Your description should include a characterization of the program as: (1) community; (2) developmental; and/or (3) situational crime prevention.
-* Identify a peer-reviewed study evaluating the prevention program.
-* Explain the evaluation's theoretical motivation.
-* Identify the concepts that were measured in the evaluation.
-* Describe 1 significant strength and 1 significant weakness of the measurement strategy.
-* Explain the research design that was used for the evaluation.
-* Describe 1 significant strength and 1 significant weakness of the research design.
-* Explain the study's findings.
-* Consider the study's policy and research implications.
+* Identify a peer-reviewed evaluation study evaluating the prevention program.
+* Explain the peer-reviewed evaluation study's theoretical motivation.
+* Identify the concepts that were measured in the peer-reviewed evaluation study.
+* Describe 1 significant strength and 1 significant weakness of the measurement strategy that was used in the peer-reviewed evaluation study.
+* Explain the research design that was used in the peer-reviewed evaluation study.
+* Describe 1 significant strength and 1 significant weakness of the research design used in the peer-reviewed evaluation study.
+* Explain the peer-reviewed evaluation study's findings.
+* Consider the peer-reviewed evaluation study's policy and research implications.
 * Assessment is typed and formatted with appropriate headings for each of the above items; good grammar, syntax, spelling, and writing form.
 
 #### Example prevention report
