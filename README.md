@@ -421,3 +421,7 @@ c. we can't draw any conclusions about the intervention's effects
 110. What was the main finding of the urban blighted land study?
 111. How did the authors of the urban blighted land study test for displacement effects?
 112. What is gentrification and why is it a source of concern in the urban blighted land study?
+113. How were the key outcomes measured in the urban blighted land study?
+114. Was gentrification a significant problem in the blighted land intervention?
+115. What was the most important strength of the urban blighted land study?
+116. What was the most important weakness of the urban blighted land study?
