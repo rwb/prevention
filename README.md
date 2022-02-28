@@ -418,10 +418,11 @@ c. we can't draw any conclusions about the intervention's effects
 107. What do the authors of the urban land study mean by the phrase "baseline balance"?
 108. Why did the urban land study take over 6 years to complete?
 109. What was the treatment noncompliance problem in the urban blighted land study?
-110. What was the main finding of the urban blighted land study?
-111. How did the authors of the urban blighted land study test for displacement effects?
-112. What is gentrification and why is it a source of concern in the urban blighted land study?
-113. How were the key outcomes measured in the urban blighted land study?
-114. Was gentrification a significant problem in the blighted land intervention?
-115. What was the most important strength of the urban blighted land study?
-116. What was the most important weakness of the urban blighted land study?
+110. What is an "intent-to-treat" analysis?
+111. What was the main finding of the urban blighted land study?
+112. How did the authors of the urban blighted land study test for displacement effects?
+113. What is gentrification and why is it a source of concern in the urban blighted land study?
+114. How were the key outcomes measured in the urban blighted land study?
+115. Was gentrification a significant problem in the blighted land intervention?
+116. What was the most important strength of the urban blighted land study?
+117. What was the most important weakness of the urban blighted land study?
