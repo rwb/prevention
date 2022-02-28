@@ -406,3 +406,18 @@ c. we can't draw any conclusions about the intervention's effects
 100. Did gun crimes change in the control beat?
 101. How did the researchers investigate the possibility of displacement?
 102. Did the researchers find any significant evidence of displacement?
+
+#### Lesson 15 - Monday 2/28/22
+
+*Note*: Today we move to our next reading covering the issue of how to treat vacant lots in urban spaces ([link](https://www.pnas.org/content/pnas/115/12/2946.full.pdf)).
+
+103. What has been the traditional response to the problem of blighted and vacant land in American cities?
+104. What are the commonly experienced unintended consequences of the traditional approach to dealing with vacant land?
+105. Describe the "main intervention" used in the urban blighted land study.
+106. Explain the research design used in the urban blighted land study.
+107. What do the authors of the urban land study mean by the phrase "baseline balance"?
+108. Why did the urban land study take over 6 years to complete?
+109. What was the treatment noncompliance problem in the urban blighted land study?
+110. What was the main finding of the urban blighted land study?
+111. How did the authors of the urban blighted land study test for displacement effects?
+112. What is gentrification and why is it a source of concern in the urban blighted land study?
