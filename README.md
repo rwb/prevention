@@ -413,17 +413,20 @@ c. we can't draw any conclusions about the intervention's effects
 
 103. What has been the traditional response to the problem of blighted and vacant land in American cities?
 104. What are the commonly experienced unintended consequences of the traditional approach to dealing with vacant land?
-105. Describe the "main intervention" used in the urban blighted land study.
-106. Explain the research design used in the urban blighted land study.
-107. What do the authors of the urban land study mean by the phrase "baseline balance"?
-108. Why did the urban land study take over 6 years to complete?
-109. What was the treatment noncompliance problem in the urban blighted land study?
+105. Describe the "main intervention" used in the urban vacant land study.
+106. Explain the research design used in the urban vacant land study.
+107. What do the authors of the urban vacant land study mean by the phrase "baseline balance"?
+
+#### Lesson 16 - Wednesday 3/2/22
+
+108. Why did the urban vacant land study take over 6 years to complete?
+109. What was the treatment noncompliance problem in the urban vacant land study?
 110. What is an "intent-to-treat" analysis?
-111. What was the main finding of the urban blighted land study?
-112. How did the authors of the urban blighted land study test for displacement effects?
-113. Why would gentrification be a source of concern in the urban blighted land study?
+111. What was the main finding of the urban vacant land study?
+112. How did the authors of the urban vacant land study test for displacement effects?
+113. Why would gentrification be a source of concern in the urban vacant land study?
 114. What would be the primary way of checking on whether gentrification occurred?
-115. How were the key outcomes measured in the urban blighted land study?
-116. Was gentrification a significant problem in the blighted land intervention?
-117. What was the most important strength of the urban blighted land study?
-118. What was the most important weakness of the urban blighted land study?
+115. How were the key outcomes measured in the urban vacant land study?
+116. Was gentrification a significant problem in the vacant land intervention?
+117. What was the most important strength of the urban vacant land study?
+118. What was the most important weakness of the urban vacant land study?
