@@ -409,7 +409,7 @@ c. we can't draw any conclusions about the intervention's effects
 
 #### Lesson 15 - Monday 2/28/22
 
-*Note*: Today we move to our next reading covering the issue of how to treat vacant lots in urban spaces ([link](https://www.pnas.org/content/pnas/115/12/2946.full.pdf)).
+*Note*: Today we move to our next reading covering the issue of how to treat blighted vacant lots in urban spaces ([link](https://www.pnas.org/content/pnas/115/12/2946.full.pdf)).
 
 103. What has been the traditional response to the problem of blighted and vacant land in American cities?
 104. What are the commonly experienced unintended consequences of the traditional approach to dealing with vacant land?
