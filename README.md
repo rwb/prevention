@@ -425,10 +425,12 @@ c. we can't draw any conclusions about the intervention's effects
 109. What was the treatment noncompliance problem in the urban vacant land study?
 110. What is an "intent-to-treat" analysis?
 111. What was the main finding of the urban vacant land study?
-112. How did the authors of the urban vacant land study test for displacement effects?
-113. Why would gentrification be a source of concern in the urban vacant land study?
-114. What would be the primary way of checking on whether gentrification occurred?
-115. How were the key outcomes measured in the urban vacant land study?
-116. Was gentrification a significant problem in the vacant land intervention?
-117. What was the most important strength of the urban vacant land study?
-118. What was the most important weakness of the urban vacant land study?
+112. What did the authors of the urban vacant land study find when they tested for displacement effects?
+113. Describe the pattern of findings between the two micro-neighborhoods that emerged from the ethnographic study.
+114. What did the ethnographers observe when they studied the drug sales behavior in areas around the vacant lots?
+115. Why would gentrification be a source of concern in the urban vacant land study?
+116. What would be the primary way of checking on whether gentrification occurred?
+117. How were the key outcomes measured in the urban vacant land study?
+118. Was gentrification a significant problem in the vacant land intervention?
+119. What was the most important strength of the urban vacant land study?
+120. What was the most important weakness of the urban vacant land study?
