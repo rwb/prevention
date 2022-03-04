@@ -437,3 +437,5 @@ c. we can't draw any conclusions about the intervention's effects
 118. Was gentrification a significant problem in the vacant land intervention?
 119. What was the most important strength of the urban vacant land study?
 120. What was the most important weakness of the urban vacant land study?
+
+*Note:* Our next study: Moving to Opportunity ([link](https://www-jstor-org.proxy-um.researchport.umd.edu/stable/pdf/25098732.pdf?refreqid=excelsior%3A11eae88cd2d56049f7ec2eeb467ca160&ab_segments=&origin=))
