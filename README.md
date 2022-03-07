@@ -438,4 +438,22 @@ c. we can't draw any conclusions about the intervention's effects
 119. What was the most important strength of the urban vacant land study?
 120. What was the most important weakness of the urban vacant land study?
 
+#### Lesson 18 - Monday 3/7/22
+
+*Reminder*: Exam 2 is scheduled for next Monday - 3/14/22
+
 *Note:* Our next study: Moving to Opportunity ([link](https://www-jstor-org.proxy-um.researchport.umd.edu/stable/pdf/25098732.pdf?refreqid=excelsior%3A11eae88cd2d56049f7ec2eeb467ca160&ab_segments=&origin=))
+
+121. Why is it hard to test the idea "that disadvantaged neighborhoods are criminogenic"?
+122. What do the MTO authors mean by the term "identification problem"?
+123. How could an experimental design help to overcome the identification problem?
+124. Which 5 cities were included in the MTO study?
+125. Who was eligible to be in the MTO program?
+126. Describe the three randomly assigned experimental groups.
+127. What is Section 8 housing?
+128. What did the housing vouchers allow people in the experimental group to do?
+129. How long did MTO movers have to stay in the low poverty tract to which they moved?
+130. What happened if a MTO mover stayed in the new area for less than 1 year?
+131. What did the MTO randomization procedure accomplish methodologically?
+132. What outcomes were measured in the MTO study?
+
