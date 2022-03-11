@@ -457,3 +457,14 @@ c. we can't draw any conclusions about the intervention's effects
 131. What did the MTO randomization procedure accomplish methodologically?
 132. What outcomes were measured in the MTO study?
 
+#### Lesson 19 - Friday 3/11/22
+
+*Note*: Exam 2 is postponed to Wednesday 3/16/22. We will have some review time during class on Monday 3/14/22.
+
+133. Describe the survey nonresponse problem in the MTO study.
+134. Did the randomization procedure used in the MTO study achieve baseline balance?
+135. Was there a treatment compliance issue in the MTO study?
+136. What was the pattern of treatment noncompliance in the MTO study?
+137. What effect did the MTO experiment have on census tract circumstances of youth?
+138. What was the effect of the MTO experiment on local social organization and order maintenance?
+139. How did the effects of MTO on local social organization and order maintenance vary by treatment group?
