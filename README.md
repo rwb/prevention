@@ -469,7 +469,7 @@ c. we can't draw any conclusions about the intervention's effects
 
 #### Lesson 20 - Monday 3/14/22
 
-*Notes*: Exam 2 will be on Wednesday 3/18/22. I will have papers finished and grades posted by end of the day today.
+*Notes*: Exam 2 will be on Wednesday 3/18/22. I will have prevention reports finished and grades posted by end of the day today.
 
 138. What was the effect of the MTO experiment on local social organization and order maintenance?
 139. How did the effects of MTO on local social organization and order maintenance vary by treatment group?
