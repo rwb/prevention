@@ -483,30 +483,31 @@ Practice Exam Questions
 
 1. The ______ beat in the Kansas City Gun Experiment included a large park
 
-a. target
-b. control
+* a. target
+* b. control
 
 2. The Kansas City Gun Experiment had to be temporarily interrupted because:
 
-a. there was a problem with police-community relations
-b. the police weren't seizing enough guns
-c. there was a disruption in funding
-d. a new police chief was hired in the middle of the study
-e. there was a court challenge to the police practices in the target beat
+* a. there was a problem with police-community relations
+* b. the police weren't seizing enough guns
+* c. there was a disruption in funding
+* d. a new police chief was hired in the middle of the study
+* e. there was a court challenge to the police practices in the target beat
 
 3. What pattern did ethnographers observe in the urban vacant land study?
 
-a. when confronted in front of homes, drug sellers retaliated against neighbors
-b. when confronted in front of homes, drug sellers moved to the vacant lots
-c. when confronted in front of homes, drug sellers left the neighborhood
+* a. when confronted in front of homes, drug sellers retaliated against neighbors
+* b. when confronted in front of homes, drug sellers moved to the vacant lots
+* c. when confronted in front of homes, drug sellers left the neighborhood
 
 4. The authors of the urban vacant land study rigorously tested for gentrification effects.
 
-a. true
-b. false
+* a. true
+* b. false
 
 5. According to the MTO protocol, people who were randomized to the experimental and Section 8 groups were _______ to move.
 
-a. required 
-b. offered the opportunity
-c. criminally punished if they chose not
+* a. required 
+* b. offered the opportunity
+* c. criminally punished if they chose not
+* d. removed from the study if they chose not
