@@ -466,5 +466,47 @@ c. we can't draw any conclusions about the intervention's effects
 135. Was there a treatment compliance issue in the MTO study?
 136. What was the pattern of treatment noncompliance in the MTO study?
 137. What effect did the MTO experiment have on census tract circumstances of youth?
+
+#### Lesson 20 - Monday 3/14/22
+
+*Notes*: Exam 2 will be on Wednesday 3/18/22. I will have papers finished and grades posted by end of the day today.
+
 138. What was the effect of the MTO experiment on local social organization and order maintenance?
 139. How did the effects of MTO on local social organization and order maintenance vary by treatment group?
+140. What measurement problem arose with self-reported arrests in the MTO study?
+141. How did the authors address the self-reported arrest measurement problem in the MTO study?
+142. Did the MTO intervention have an effect on official record arrest outcomes?
+143. What variable seems to condition the effect of MTO on official arrest outcomes?
+144. What results emerged after examining the self-reported arrest data in the MTO study?
+
+Practice Exam Questions
+
+1. The ______ beat in the Kansas City Gun Experiment included a large park
+
+a. target
+b. control
+
+2. The Kansas City Gun Experiment had to be temporarily interrupted because:
+
+a. there was a problem with police-community relations
+b. the police weren't seizing enough guns
+c. there was a disruption in funding
+d. a new police chief was hired in the middle of the study
+e. there was a court challenge to the police practices in the target beat
+
+3. What pattern did ethnographers observe in the urban vacant land study?
+
+a. when confronted in front of homes, drug sellers retaliated against neighbors
+b. when confronted in front of homes, drug sellers moved to the vacant lots
+c. when confronted in front of homes, drug sellers left the neighborhood
+
+4. The authors of the urban vacant land study rigorously tested for gentrification effects.
+
+a. true
+b. false
+
+5. According to the MTO protocol, people who were randomized to the experimental and Section 8 groups were _______ to move.
+
+a. required 
+b. offered the opportunity
+c. criminally punished if they chose not
