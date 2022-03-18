@@ -516,3 +516,18 @@ Practice Exam Questions
 #### Lesson 21 - Friday 3/28/22
 
 *Note*: Today we move to our next reading covering the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
+
+145. What is a community randomized trial?
+146. Does the CTC prescribe specific interventions for specific problems?
+147. How are treatment communities matched to control communities?
+148. Who is responsible for implementing CTC at the community level?
+149. What range of behaviors does the CTC target for intervention?
+150. Describe the age range for which the CTC intervention is designed.
+151. How were student outcomes measured?
+152. Do self-report surveys have credibility?
+153. What is a panel survey?
+154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey? 
+
+<p align="center">
+<img src="charts/cohen-table.png" width="600px">
+</p>
