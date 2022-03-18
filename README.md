@@ -529,5 +529,5 @@ Practice Exam Questions
 154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey? 
 
 <p align="center">
-<img src="charts/cohen-table.png" width="600px">
+<img src="charts/cohen-table.png" width="700px">
 </p>
