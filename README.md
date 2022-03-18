@@ -513,7 +513,7 @@ Practice Exam Questions
 * d. removed from the study if they chose not
 
 
-#### Lesson 21 - Friday 3/28/22
+#### Lesson 21 - Friday 3/18/22
 
 *Note*: Today we move to our next reading covering the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
 
