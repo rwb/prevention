@@ -511,3 +511,8 @@ Practice Exam Questions
 * b. offered the opportunity
 * c. criminally punished if they chose not
 * d. removed from the study if they chose not
+
+
+#### Lesson 21 - Friday 3/28/22
+
+*Note*: Today we move to our next reading covering the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
