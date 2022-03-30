@@ -519,15 +519,30 @@ Practice Exam Questions
 
 145. What is a community randomized trial?
 146. Does the CTC prescribe specific interventions for specific problems?
-147. How are treatment communities matched to control communities?
+147. How were treatment communities matched to control communities?
 148. Who is responsible for implementing CTC at the community level?
 149. What range of behaviors does the CTC target for intervention?
 150. Describe the age range for which the CTC intervention is designed.
 151. How were student outcomes measured?
 152. Do self-report surveys have credibility?
-153. What is a panel survey?
-154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey? 
 
 <p align="center">
 <img src="charts/cohen-table.png" width="700px">
 </p>
+
+#### Lesson 22 - Wednesday 3/30/22
+
+*Note*: Today we our review of the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
+*Reminder*: Second prevention reports are now due on Friday 4/8/22 due to my illness.
+
+153. What is a panel survey?
+154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey?
+155. Describe the significant missing data problem that typically arises in panel surveys.
+156. Over what age range was the CTC treatment designed to be delivered?
+157. At what grade level during the CTC study were the students not surveyed? 
+158. At what grade level was the final CTC survey conducted?
+159. Was the CTC research design successful in reducing baseline differences between the treatment and control groups?
+160. How did cumulative outcomes vary between the treatment and control groups in the CTC study?
+161. How did the CTC intervention affect recent substance use and violence involvement at the last survey?
+162. What was the most important strength of the CTC intervention?
+163. What was the most important weakness of the CTC intervention?
