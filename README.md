@@ -546,3 +546,5 @@ Practice Exam Questions
 161. How did the CTC intervention affect recent substance use and violence involvement at the last survey?
 162. What was the most important strength of the CTC intervention?
 163. What was the most important weakness of the CTC intervention?
+
+*Note*: the next prevention effort we examine is the Cambridge-Somerville youth study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf))
