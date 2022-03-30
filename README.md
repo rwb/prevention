@@ -532,8 +532,7 @@ Practice Exam Questions
 
 #### Lesson 22 - Wednesday 3/30/22
 
-*Note*: Today we our review of the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
-*Reminder*: Second prevention reports are now due on Friday 4/8/22 due to my illness.
+*Note*: Today we our review of the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/)); also please make a note that I am changing the due date for the second prevention report to Friday 4/8/22 due to my illness.
 
 153. What is a panel survey?
 154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey?
