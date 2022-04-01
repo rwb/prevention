@@ -532,7 +532,7 @@ Practice Exam Questions
 
 #### Lesson 22 - Wednesday 3/30/22
 
-*Note*: Today we our review of the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/)); also please make a note that I am changing the due date for the second prevention report to Friday 4/8/22 due to my illness.
+*Note*: Today we continue our review of the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/)); also please make a note that I am changing the due date for the second prevention report to Friday 4/8/22 due to my illness.
 
 153. What is a panel survey?
 154. How is a panel survey different from a cross-sectional or repeated cross-sectional survey?
@@ -546,4 +546,19 @@ Practice Exam Questions
 162. What was the most important strength of the CTC intervention?
 163. What was the most important weakness of the CTC intervention?
 
-*Note*: the next prevention effort we examine is the Cambridge-Somerville youth study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf))
+#### Lesson 23 - Friday 4/1/22
+
+*Note*: the next prevention effort we examine is the Cambridge-Somerville youth (CSY) study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf)); as a reminder, I changed the due date for the second prevention report to Friday 4/8/22. The third exam is still scheduled for Wednesday 4/13/22.
+
+164. What were the key distinctive features of the CSY program?
+165. Why is it potentially important to avoid stigmatizing high-risk youth?
+166. What is the counterargument to concerns about stigmatizing high-risk youth?
+167. From what group in the population were the boys enrolled in the CSY study drawn?
+168. What do we mean by the term "risk principle"?
+169. How was the risk principle applied in the CSY study?
+170. What factors were used as a basis for matching treatment and control group boys in the CSY study?
+171. How did the randomization to treatment and control groups work in the CSY study?
+172. Why were some people dropped from the CSY program in 1941?
+173. What was the nature of the intervention in the CSY treatment group?
+174. What did the CSY control group receive?
+175. What were the main data sources for the CSY study?
