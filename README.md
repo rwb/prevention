@@ -515,7 +515,7 @@ Practice Exam Questions
 
 #### Lesson 21 - Friday 3/18/22
 
-*Note*: Today we move to our next reading covering the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/))
+*Note*: Today we move to our next reading covering the Communities that Care (CTC) program ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946405/)); also please note that exam #3 material begins with today's lesson.
 
 145. What is a community randomized trial?
 146. Does the CTC prescribe specific interventions for specific problems?
