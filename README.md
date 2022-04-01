@@ -557,7 +557,7 @@ Practice Exam Questions
 168. What do we mean by the term "risk principle"?
 169. How was the risk principle applied in the CSY study?
 170. What factors were used as a basis for matching treatment and control group boys in the CSY study?
-171. How did the randomization to treatment and control groups work in the CSY study?
+171. How did the random assignment to treatment and control groups work in the CSY study?
 172. Why were some people dropped from the CSY program in 1941?
 173. What was the nature of the intervention in the CSY treatment group?
 174. What did the CSY control group receive?
