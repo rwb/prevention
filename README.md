@@ -562,3 +562,20 @@ Practice Exam Questions
 173. What was the nature of the intervention in the CSY treatment group?
 174. What did the CSY control group receive?
 175. What were the main data sources for the CSY study?
+
+#### Lesson 24 - Monday 4/4/22
+
+*Note*: the prevention programe we are currently examing is the Cambridge-Somerville youth (CSY) study ([link](https://www.gwern.net/docs/sociology/1978-mccord.pdf)); as a reminder, I changed the due date for the second prevention report to Friday 4/8/22. The third exam is still scheduled for Wednesday 4/13/22.
+
+176. What information was used to compare criminality between the 2 groups in the CSY study?
+177. How did the CSY study author respond to the potential concern of bias in the administrative criminal records?
+178. Describe the conclusions from the CSY study's comparisons of juvenile criminal records between the treatment and control groups.
+179. What adult criminal record comparisons were conducted in the CSY study?
+180. Did the CSY study reveal any important adult criminality differences between the treatment and control groups?
+181. Did death rates differ between the treatment and control groups in the CSY study?
+182. What did the official records reveal about the effects of treatment on officially recorded alcohol and mental health outcomes in the CSY study?
+183. What did the official records reveal about the effects of treatment on survey-based alcohol and mental health outcomes in the CSY study?
+184. Describe the marriage and family patterns between the two CSY study groups?
+185. Based on CSY study survey data, what were the career patterns of the treatment and control groups?
+186. What did the CSY study's comparison of leisure time between the two groups reveal?
+187. According to the CSY survey data, what did life satisfaction comparisons reveal? 
