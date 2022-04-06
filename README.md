@@ -579,7 +579,7 @@ Practice Exam Questions
 *Reminder*: Second prevention reports are due on Friday 4/8/22. The third exam will be next Wednesday (one week from today) 4/13/22.
 
 182. What did the official records reveal about the effects of treatment on officially recorded alcohol-related outcomes in the CSY study?
-183. What did the official records reveal about the effects of treatment on survey-based alcohol-related outcomes in the CSY study?
+183. What did the CSY study reveal about the effects of treatment on survey-based alcohol-related outcomes?
 184. Describe the marriage and family patterns between the two CSY study groups?
 185. Based on CSY study survey data, what were the career patterns of the treatment and control groups?
 186. What did the CSY study's comparison of leisure time between the two groups reveal?
