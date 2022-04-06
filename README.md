@@ -573,12 +573,22 @@ Practice Exam Questions
 179. What adult criminal record comparisons were conducted in the CSY study?
 180. Did the CSY study reveal any important adult criminality differences between the treatment and control groups?
 181. Did death rates differ between the treatment and control groups in the CSY study?
-182. What did the official records reveal about the effects of treatment on officially recorded alcohol-related outcomes in the CSY study?
 
 #### Lesson 25 - Wednesday 4/6/22
 
-183. What did the official records reveal about the effects of treatment on survey-based alcohol and mental health outcomes in the CSY study?
+*Reminder*: Second prevention reports are due on Friday 4/8/22. The third exam will be next Wednesday (one week from today) 4/13/22.
+
+182. What did the official records reveal about the effects of treatment on officially recorded alcohol-related outcomes in the CSY study?
+183. What did the official records reveal about the effects of treatment on survey-based alcohol-related outcomes in the CSY study?
 184. Describe the marriage and family patterns between the two CSY study groups?
 185. Based on CSY study survey data, what were the career patterns of the treatment and control groups?
 186. What did the CSY study's comparison of leisure time between the two groups reveal?
 187. According to the CSY survey data, what did life satisfaction comparisons reveal? 
+
+* Our next reading: the Perry Preschool Project ([link](https://link.springer.com/content/pdf/10.1007%2Fs11292-013-9190-3.pdf)).
+
+188. What group of people were targeted by the Perry Preschool Experiment?
+189. Describe the distinct contribution of the Schweinhart (2013) evaluation of the Perry program.
+190. How did the Cambridge Somerville Youth Study differ from the preschool programs described in the Perry evaluation?
+191. Why might the Perry evaluation be expected to produce different results from the Cambridge Somerville Youth Study?
+192. Why have prior evaluations of Perry-type programs led to somewhat different conclusions than Head Start programs?
