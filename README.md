@@ -592,3 +592,18 @@ Practice Exam Questions
 190. How did the Cambridge Somerville Youth Study differ from the preschool programs described in the Perry evaluation?
 191. Why might the Perry evaluation be expected to produce different results from the Cambridge Somerville Youth Study?
 192. Why have prior evaluations of Perry-type programs led to somewhat different conclusions than Head Start programs?
+
+#### Lesson 26 - Friday 4/8/22
+
+*Reminder*: Second papers are due today and the next exam will be on Wednesday 4/13/22. We continue with our review of the Perry Preschool Project today.
+
+193. Who was included in the Perry Preschool program evaluation?
+194. How was it determined who would be in the treatment group and who would be in the control group?
+195. What intervention did the treatment group receive in the Perry Preschool project?
+196. What intervention did the control group receive in the Perry Preschool project?
+197. How was the random assignment carried out in the Perry Preschool project?
+198. What was the theoretical emphasis of the intervention delivered to the treatment group in the Perry Preschool program?
+199. What was the effect of the Perry Preschool treatment on school performance?
+200. How did high school graduation rates differ between the treatment and control groups in the Perry Preschool project?
+201. How did employment rates and earnings vary between the Perry Preschool treatment and control groups?
+202. How did teachers rate the Perry Preschool treatment and control children on personal and school misconduct?
