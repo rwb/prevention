@@ -607,3 +607,16 @@ Practice Exam Questions
 200. How did high school graduation rates differ between the treatment and control groups in the Perry Preschool project?
 201. How did employment rates and earnings vary between the Perry Preschool treatment and control groups?
 202. How did teachers rate the Perry Preschool treatment and control children on personal and school misconduct?
+
+#### Lesson 27 - Monday 4/11/22
+
+*Reminder*: The next exam will be on Wednesday 4/13/22. We conclude our review of the Perry Preschool Project today.
+
+203. How did self-report and official arrest records compare to each other?
+204. In terms of the official arrest records in Table 2, which experimental group had the best outcomes?
+205. What did the Perry Preschool arrest data show when the author examined the results separately for males and females?
+206. What did the Perry Preschool conviction comparison show?
+207. What did the Perry Preschool prison sentence comparison show?
+208. Some of the Perry Preschool comparisons were not statistically significant. What did the author say about these results?
+209. Why were the differences between the Perry treatment and control groups larger at age 40 than at age 27?
+210. Why were the Perry results stronger than the Head Start results?
