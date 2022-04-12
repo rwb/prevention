@@ -651,6 +651,6 @@ e. violence
 a. treatment was mostly delivered in a preschool setting
 b. children were younger at the time of the program
 c. parents were more intensively involved
-d. both a and b are correct
-e. both b and c are correct
+d. both b and c are correct
+e. both a and b are correct
 ```
