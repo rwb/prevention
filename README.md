@@ -623,7 +623,8 @@ Practice Exam Questions
 
 ### Exam Practice Questions
 
-1. 13. What is the theoretical counterargument to concerns about stigmatizing high-risk youth?
+```rout
+1. What is the theoretical counterargument to concerns about stigmatizing high-risk youth?
 
 a. social control
 b. strain
@@ -650,3 +651,4 @@ e. violence
 a. match-then-randomize
 b. randomize-then-match
 c. neither a nor b is correc
+```
