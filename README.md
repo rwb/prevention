@@ -646,9 +646,9 @@ c. cocaine use
 d. ecstasy use
 e. violence
 
-4. Which of the following protocols best captures the Cambridge-Somerville Youth Study and Perry Preschool  evaluation designs:
+4. The Perry Preschool project was notably distinct from the Cambridge Somerville Youth Study because:
 
-a. match-then-randomize
-b. randomize-then-match
-c. neither a nor b is correc
+a. treatment was mostly delivered in a preschool setting
+b. children were younger at the time of the program
+c. parents were more intensively involved
 ```
