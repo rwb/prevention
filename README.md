@@ -620,3 +620,33 @@ Practice Exam Questions
 208. Some of the Perry Preschool comparisons were not statistically significant. What did the author say about these results?
 209. Why were the differences between the Perry treatment and control groups larger at age 40 than at age 27?
 210. Why were the Perry results stronger than the Head Start results?
+
+### Exam Practice Questions
+
+1. 13. What is the theoretical counterargument to concerns about stigmatizing high-risk youth?
+
+a. social control
+b. strain
+c. self-concept
+d. deterrence
+e. self-control
+
+2. Which of the following protocols best captures the Communities that Care evaluation design:
+
+a. match-then-randomize
+b. randomize-then-match
+c. neither a nor b is correct
+
+3. For most of the outcomes studied, the Communities that Care group had either better or similar outcomes to the control group. Which outcome had contrary results?
+
+a. alcohol use
+b. delinquency
+c. cocaine use
+d. ecstasy use
+e. violence
+
+4. Which of the following protocols best captures the Cambridge-Somerville Youth Study and Perry Preschool  evaluation designs:
+
+a. match-then-randomize
+b. randomize-then-match
+c. neither a nor b is correc
