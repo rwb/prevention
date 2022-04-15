@@ -657,4 +657,13 @@ e. both a and b are correct
 
 #### Lesson 28 - Friday 4/15/22
 
-*Note*: The material covered on the final exam begins here. Please recall from the syllabus (above) that the final exam is not cumulative. I am grading your 3rd exams and papers and will be posting the scores on the exams early next week and will return papers by the end of next week. Our next study is a 3-year outcome evaluation of the Baltimore City Drug Treatment Court program ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf))
+*Note*: The material covered on the final exam begins here. Please recall from the syllabus (above) that the final exam is not cumulative. I am grading your 3rd exams and papers and will be posting the scores on the exams early next week and will return papers by the end of next week. Our next study is a 3-year outcome evaluation of the Baltimore City Drug Treatment Court program ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf)).
+
+211. What is a specialized court?
+212. When did specialized courts originate?
+213. Describe the difference between type-of-person and type-of-offense specialized courts.
+214. What is the philosophical justification for drug treatment courts?
+215. Why might such courts be the source of some controversy?
+217. What are the common distinguishing characteristics of drug treatment courts?
+218. What has prior research shown about treatment retention rates for drug court participants compared to treatment recipients in other criminal justice settings?
+219. 
