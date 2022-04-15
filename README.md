@@ -666,4 +666,8 @@ e. both a and b are correct
 215. Why might such courts be the source of some controversy?
 217. What are the common distinguishing characteristics of drug treatment courts?
 218. What has prior research shown about treatment retention rates for drug court participants compared to treatment recipients in other criminal justice settings?
-219. 
+219. Are drug treatment courts cost-effective?
+220. Has prior research demonstrated beneficial effects on criminal justice outcomes?
+221. What gaps in our understanding of drug treatment courts were revealed by the GAO evaluation?
+222. What particular contributions did the Baltimore City Drug Treatment Court evaluation make?
+223. 
