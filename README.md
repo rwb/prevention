@@ -654,3 +654,7 @@ c. parents were more intensively involved
 d. both b and c are correct
 e. both a and b are correct
 ```
+
+#### Lesson 28 - Friday 4/15/22
+
+*Note*: The material covered on the final exam begins here. Please recall from the syllabus (above) that the final exam is not cumulative. I am grading your 3rd exams and papers and will be posting the scores on the exams early next week and will return papers by the end of next week. Our next study is a 3-year outcome evaluation of the Baltimore City Drug Treatment Court program ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf))
