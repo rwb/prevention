@@ -664,21 +664,26 @@ e. both a and b are correct
 213. Describe the difference between type-of-person and type-of-offense specialized courts.
 214. What is the philosophical justification for drug treatment courts?
 215. Why might such courts be the source of some controversy?
-217. What are the common distinguishing characteristics of drug treatment courts?
-218. What has prior research shown about treatment retention rates for drug court participants compared to treatment recipients in other criminal justice settings?
-219. Are drug treatment courts cost-effective?
-220. Has prior research demonstrated beneficial effects on criminal justice outcomes?
-221. What gaps in our understanding of drug treatment courts were revealed by the GAO evaluation?
-222. What particular contributions did the Baltimore City Drug Treatment Court evaluation make?
-223. Describe the drug-crime linkage identified by the Baltimore City Bar Association study.
-224. What were the three tracks into the original version of the Baltimore City Drug Treatment Court?
-225. Which of the three tracks into the original version of the Baltimore City Drug Treatment Court was terminated?
-226. What were the eligibility criteria for participation in the Baltimore City Drug Treatment Court program?
-227. Identify the four main elements of the Baltimore City Drug Treatment Court program.
-228. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
-229. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
-230. What is a graduated sanctions program?
-231. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
-232. What was the research design of the Baltimore City Drug Treatment Court program?
-233. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
-234. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
+216. What are the common distinguishing characteristics of drug treatment courts?
+217. What has prior research shown about treatment retention rates for drug court participants compared to treatment recipients in other criminal justice settings?
+218. Are drug treatment courts cost-effective?
+219. Has prior research demonstrated beneficial effects on criminal justice outcomes?
+
+#### Lesson 29 - Monday 4/18/22
+
+*Note*: Our current study is the 3-year outcome evaluation of the Baltimore City Drug Treatment Court program ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf)).
+
+220. What gaps in our understanding of drug treatment courts were revealed by the GAO evaluation?
+221. What particular contributions did the Baltimore City Drug Treatment Court evaluation make?
+222. Describe the drug-crime linkage identified by the Baltimore City Bar Association study.
+223. What were the three tracks into the original version of the Baltimore City Drug Treatment Court?
+224. Which of the three tracks into the original version of the Baltimore City Drug Treatment Court was terminated?
+225. What were the eligibility criteria for participation in the Baltimore City Drug Treatment Court program?
+226. Identify the four main elements of the Baltimore City Drug Treatment Court program.
+227. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
+228. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
+229. What is a graduated sanctions program?
+230. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
+231. What was the research design of the Baltimore City Drug Treatment Court program?
+232. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
+233. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
