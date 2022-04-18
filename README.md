@@ -683,7 +683,7 @@ e. both a and b are correct
 227. Describe the discretion that is involved in determining which eligible persons are selected to participate in the Baltimore City Drug Treatment Court program.
 228. Identify the four main elements of the Baltimore City Drug Treatment Court program.
 229. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
-230. Is it fair to say that there is a treatment matching exercise in the Baltimore City Drug Treatment Court? If so, what form does it take?
+230. Is it fair to say that there was a treatment matching exercise in the Baltimore City Drug Treatment Court? If so, what form does it take?
 231. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
 232. What is a graduated sanctions program?
 233. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
