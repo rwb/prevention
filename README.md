@@ -687,6 +687,6 @@ e. both a and b are correct
 231. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
 232. What is a graduated sanctions program?
 233. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
-234. What was the research design of the Baltimore City Drug Treatment Court program?
+234. What was the research design of the original short-term Baltimore City Drug Treatment Court program evaluation?
 235. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
 236. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
