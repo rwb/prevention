@@ -678,12 +678,13 @@ e. both a and b are correct
 222. Describe the drug-crime linkage identified by the Baltimore City Bar Association study.
 223. What were the three tracks into the original version of the Baltimore City Drug Treatment Court?
 224. Which of the three tracks into the original version of the Baltimore City Drug Treatment Court was terminated?
-225. What were the eligibility criteria for participation in the Baltimore City Drug Treatment Court program?
-226. Identify the four main elements of the Baltimore City Drug Treatment Court program.
-227. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
-228. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
-229. What is a graduated sanctions program?
-230. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
-231. What was the research design of the Baltimore City Drug Treatment Court program?
-232. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
-233. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
+225. What incentive did the Baltimore City Drug Treatment Court post-conviction program particpants have to faithfully engage in the program?
+226. What were the eligibility criteria for participation in the Baltimore City Drug Treatment Court program?
+227. Identify the four main elements of the Baltimore City Drug Treatment Court program.
+228. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
+229. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
+230. What is a graduated sanctions program?
+231. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
+232. What was the research design of the Baltimore City Drug Treatment Court program?
+233. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
+234. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
