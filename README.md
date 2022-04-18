@@ -680,11 +680,12 @@ e. both a and b are correct
 224. Which of the three tracks into the original version of the Baltimore City Drug Treatment Court was terminated?
 225. What incentive did the Baltimore City Drug Treatment Court post-conviction program particpants have to faithfully engage in the program?
 226. What were the eligibility criteria for participation in the Baltimore City Drug Treatment Court program?
-227. Identify the four main elements of the Baltimore City Drug Treatment Court program.
-228. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
-229. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
-230. What is a graduated sanctions program?
-231. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
-232. What was the research design of the Baltimore City Drug Treatment Court program?
-233. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
-234. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
+227. Describe the discretion that is involved in determining which eligible persons are selected to participate in the Baltimore City Drug Treatment Court program.
+228. Identify the four main elements of the Baltimore City Drug Treatment Court program.
+229. Who provided treatment on behalf of the Baltimore City Drug Treatment Court?
+230. Describe the role of judicial monitoring in the Baltimore City Drug Treatment Court program.
+231. What is a graduated sanctions program?
+232. Why could the Baltimore City Drug Treatment Court be considered a graduated sanctions program?
+233. What was the research design of the Baltimore City Drug Treatment Court program?
+234. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
+235. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
