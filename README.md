@@ -693,7 +693,14 @@ e. both a and b are correct
 *Note*: Our current study is the 3-year outcome evaluation of the Baltimore City Drug Treatment Court program ([link](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf)). 
 
 234. What was the research design of the original short-term Baltimore City Drug Treatment Court program evaluation?
-235. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups?
+235. What did the Baltimore City Drug Treatment Court program report about the comparability of the treatment and control groups in the original short-term program evaluation?
 236. What research findings were yielded by the earlier evaluations of the Baltimore City Drug Treatment Court program?
-237. Was the experimentally assigned treatment binding on the judges in the Baltimore City Drug Treatment Court?
-238. Describe the pattern of treatment noncompliance in the Baltimore City Drug Treatment Court.
+237. At what point in the process of the Baltimore City Drug Treatment Court experiment did randomization occur?
+238. Was there evidence of treatment noncompliance in the Baltimore City Drug Treatment Court experiment?
+239. How did the response rates for the interviews vary between the treatment and control groups in the Baltimore City Drug Treatment Court experiment?
+240. How did the recidivism rates of the interviewed people compare to those of the non-interviewed people in the Baltimore City Drug Treatment Court experiment?
+241. Did the recidivism-interview nonresponse pattern vary between the treatment and control groups in the Baltimore City Drug Treatment Court experiment?
+242. How did criminal involvement vary between the treatment and control groups in the Baltimore City Drug Treatment Court experiment?
+243. How did treatment noncompliance affect the interpretation of the experimental crime results in the Baltimore City Drug Treatment Court experiment?
+244. How did substance use outcomes vary between the treatment and control groups in the Baltimore City Drug Treatment Court experiment?
+245. How did treatment noncompliance affect the interpretation of the experimental substance use results in the Baltimore City Drug Treatment Court exoeriment?
