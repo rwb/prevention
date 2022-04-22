@@ -704,3 +704,21 @@ e. both a and b are correct
 243. How did treatment noncompliance affect the interpretation of the experimental crime results in the Baltimore City Drug Treatment Court experiment?
 244. How did substance use outcomes vary between the treatment and control groups in the Baltimore City Drug Treatment Court experiment?
 245. How did treatment noncompliance affect the interpretation of the experimental substance use results in the Baltimore City Drug Treatment Court exoeriment?
+
+#### Lesson 31 - Friday 4/22/22
+
+*Note*: Today, we move to the next study looking at Drug Abuse Resistance Education (DARE); ([link](https://ajph-aphapublications-org.proxy-um.researchport.umd.edu/doi/epdf/10.2105/AJPH.84.9.1394))
+
+246. For what school level were DARE programs originally developed?
+247. In what city did DARE originate?
+248. Who is typicallly responsible for delivering DARE programming?
+249. What is the primary goal of DARE?
+250. On what age range is the DARE evaluation focused?
+251. What is the best characterization of the follow-up time considered in the DARE evaluation?
+252. What is a meta analysis?
+253. Why is it important to include both published and unpublished studies in a meta analysis?
+254. How do meta analysis researchers combine studies that report results in different ways?
+255. Describe the training that DARE officers receive?
+256. What inclusion criteria were used for the study?
+257. What is an effect size?
+258. Which effect sizes were estimated in the DARE evaluation?
