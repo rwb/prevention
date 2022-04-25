@@ -721,4 +721,23 @@ e. both a and b are correct
 255. Describe the training that DARE officers receive?
 256. What inclusion criteria were used for the study?
 257. What is an effect size?
+
+#### Lesson 32 - Monday 4/25/22
+
+*Note*: Today, we continue our review of the Drug Abuse Resistance Education (DARE) study; ([link](https://ajph-aphapublications-org.proxy-um.researchport.umd.edu/doi/epdf/10.2105/AJPH.84.9.1394))
+
 258. Which effect sizes were estimated in the DARE evaluation?
+259. What is the goal of calculating a weighted mean effect size in the DARE evaluation?
+260. On which outcome group did DARE programming have the largest effect?
+261. On which drug use outcome did DARE programming have the largest effect?
+262. What kinds of programs tended to show more promise than DARE programming with older elementary school children?
+263. Identify 3 important limitations of the DARE evaluation reviewed in class.
+
+*Note*: our next evaluation is a study of street lighting effects in New York City ([link](https://link.springer.com/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
+
+264. According to routine activities theory, what 3 elements are needed for a crime to occur?
+265. Why is routine activities theory considered a rational choice theory of crime?
+266. How might ideas from social disorganization theory be thought of as contributing to the need for increased lighting?
+267. If crime has been declining in New York City, why would it be useful to conduct a street lighting experiment?
+268. How could street lighting influence variables that are viewed as important by routine activities theorists?
+269. What is the community setting where the street lighting experiment was carried out?
