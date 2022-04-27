@@ -758,6 +758,11 @@ e. both a and b are correct
 279. What did the authors say about the noise and fumes emanating from the street lighting equipment?
 280. What do the street lighting authors mean by the term "demonstration effect"?
 281. Describe the treatment noncompliance problem that arose in the New York street lighting study.
+
+#### Lesson 34 - Friday 4/29/22
+
+*Note*: we are continuing our review of the street lighting effects study in New York City ([link](https://link.springer.com/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
+
 282. What factor principally affected the dosage of street lighting in the treatment communities?
 283. Based on the dosage noncompliance problem, what do the authors conclude about the likely direction of bias in street lighting effects?
 284. What did the control group receive in the New York street lighting study?
