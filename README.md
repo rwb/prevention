@@ -743,6 +743,22 @@ e. both a and b are correct
 
 *Note*: we are continuing our review of the street lighting effects study in New York City ([link](https://link.springer.com/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
 
-267. If crime has been declining in New York City, why would it be useful to conduct a street lighting experiment?
-268. How could street lighting influence variables that are viewed as important by routine activities theorists?
-269. What is the community setting where the street lighting experiment was carried out?
+267. Why are the authors of the street lighting study optimistic about the potential effects of the intervention?
+268. What is the primary limitation of the street lighting and crime research literature?
+269. What two theoretical mechanisms are highlighted by the street lighting study?
+270. How do financial costs depend on the relationship between street lighting and crime?
+271. If crime has been declining in New York City, why would it be useful to conduct a street lighting experiment?
+272. What is the community setting where the street lighting experiment was carried out?
+273. What hypothesis does the street lighting study offer to distinguish between deterrence and incapacitation effects?
+274. How might regression to the mean affect a study of street lighting effects on crime?
+275. Why might a so-called difference-in-difference study might not yield useful information about street lighting effects?
+276. What kind of street lighting did the New York evaluation use?
+277. What difference was induced by street lighting in the treatment compared to the control communities?
+278. How were the street lights powered in the New York treatment communities?
+279. What did the authors say about the noise and fumes emanating from the street lighting equipment?
+280. What do the street lighting authors mean by the term "demonstration effect"?
+281. Describe the treatment noncompliance problem that arose in the New York street lighting study.
+282. What factor principally affected the dosage of street lighting in the treatment communities?
+283. Based on the dosage noncompliance problem, what do the authors conclude about the likely direction of bias in street lighting effects?
+284. What did the control group receive in the New York street lighting study?
+285. How did the authors measure crime in the street lighting study?
