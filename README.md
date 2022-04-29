@@ -764,6 +764,19 @@ e. both a and b are correct
 *Note*: we are continuing our review of the street lighting effects study in New York City ([link](https://link.springer.com/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
 
 282. What factor principally affected the dosage of street lighting in the treatment communities?
-283. Based on the dosage noncompliance problem, what do the authors conclude about the likely direction of bias in street lighting effects?
-284. What did the control group receive in the New York street lighting study?
+283. What did the control group receive in the New York street lighting study?
+284. How long did the street lighting intervention last?
 285. How did the authors measure crime in the street lighting study?
+286. Which crimes did the street lighting study examine?
+287. Why did the street lighting study authors choose the crimes that were examined?
+288. What predictions did the authors make about bias in the street lighting study due to crime nonreporting?
+289. How did the street lighting study deal with the problem of crimes occurring indoors?
+290. How did the street lighting study deal with the problem of gradual onset of darkness and daylight?
+291. Was the street lighting study successful in achieving baseline balance?
+292. How effective was street lighting at reducing the measured index crimes?
+293. Did the street lighting study reveal evidence of spatial crime displacement?
+294. Did the street lighting study reveal evidence of temporal crime displacement?
+295. Was the evidence from the street lighting study more consistent with deterrence or incapacitation?
+296. The street lighting study compared effects of lighting on index crimes and minor crimes. What did the comparison show?
+297. How did the street lighting study check on potential police patrol effects?
+298. What did the street lighting study conclude about changes in police patrol activities during the experiment?
