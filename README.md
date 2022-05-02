@@ -780,3 +780,7 @@ e. both a and b are correct
 296. The street lighting study compared effects of lighting on index crimes and minor crimes. What did the comparison show?
 297. How did the street lighting study check on potential police patrol effects?
 298. What did the street lighting study conclude about changes in police patrol activities during the experiment?
+
+#### Lesson 35 - Monday 5/2/22
+
+*Note*: We now turn to Study #11 which examines the situational prevention issue of target hardening and residential burglary ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
