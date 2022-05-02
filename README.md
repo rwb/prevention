@@ -790,9 +790,9 @@ e. both a and b are correct
 301. What temporal pattern of repeat victimization has been discovered in previous burglary victimization literature?
 302. Describe the recommended intervention that flows from prior literature on repeat burglary victimization.
 303. What did previous research suggest about the likelihood of burglary victims making security-related property changes?
-304. What did the residential burglary study authors mean by the term WIDE?
-305. What is an encouragement design?
-306. What does previous literature suggest about the effects of security cameras and alarm systems on repeat burglary victimization?
+304. What is an encouragement design?
+305. What does previous literature suggest about the effects of security cameras and alarm systems on repeat burglary victimization?
+306. What did the residential burglary study authors mean by the term WIDE?
 307. Describe the hypothesized outcomes in the residential burglary study.
 308. What did the residential burglary study authors hypothesize about displacement effects based on previous literature?
 309. What eligibility criteria were used in the residential burglary study?
