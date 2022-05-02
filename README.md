@@ -784,3 +784,16 @@ e. both a and b are correct
 #### Lesson 35 - Monday 5/2/22
 
 *Note*: We now turn to Study #11 which examines the situational prevention issue of target hardening and residential burglary ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
+
+299. Why did the residential burglary study focus on the problem of repeat victimization?
+300. What are the two general reasons why there might be a connection between prior and subsequent burglary victimization?
+301. What temporal pattern of repeat victimization has been discovered in previous burglary victimization literature?
+302. Describe the recommended intervention that flows from prior literature on repeat burglary victimization.
+303. What did previous research suggest about the likelihood of burglary victims making security-related property changes?
+304. What did the residential burglary study authors mean by the term WIDE?
+305. What is an encouragement design?
+306. What does previous literature suggest about the effects of security cameras and alarm systems on repeat burglary victimization?
+307. Describe the hypothesized outcomes in the residential burglary study.
+308. What did the residential burglary study authors hypothesize about displacement effects based on previous literature?
+309. What eligibility criteria were used in the residential burglary study?
+310. What did the residential burglary study mean by the term "informed consent"?
