@@ -797,3 +797,18 @@ e. both a and b are correct
 308. What did the residential burglary study authors hypothesize about displacement effects based on previous literature?
 309. What eligibility criteria were used in the residential burglary study?
 310. What did the residential burglary study mean by the term "informed consent"?
+
+#### Lesson 36 - Wednesday 5/4/22
+
+*Note*: We continue our review of the target hardening and residential burglary study ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
+
+311. What intervention did the treatment group receive in the target hardening/residential burglary study?
+312. How long did it typically take for treatment households to receive the security upgrades?
+313. How was the randomization conducted?
+314. Identify the primary measured outcome in the burglary study.
+315. How was the primary study outcome measured?
+316. What secondary outcomes were identified by the authors of the burglary study?
+317. How were the secondary outcomes measured?
+318. Was there a "treatment noncompliance" problem in the burglary study?
+319. Did the burglary study authors check for baseline balance?
+320. What effects of the treatment did the burglary study reveal?
