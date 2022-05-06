@@ -823,4 +823,12 @@ e. both a and b are correct
 
 *Next reading*: we now turn to our final study of the semester examining the issue of retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
 
-326. 
+326. What is the theoretical premise of the retail theft study?
+327. What two treatments were examined in the retail theft study?
+328. What was the logic behind the ePVM treatment?
+329. What was the logic behine the fixture treatment?
+330. Describe the research design on which the retail theft study was based.
+331. What did the retail theft study authors mean by the term "shrinkage"?
+332. How was shrinkage measured in the retail theft study?
+333. What concern arises as a result of the pretest data in the retail theft study?
+334. What methodological concern could be raised about the experiment as a whole?
