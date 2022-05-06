@@ -811,4 +811,16 @@ e. both a and b are correct
 317. How were the secondary outcomes measured?
 318. Was there a "treatment noncompliance" problem in the burglary study?
 319. Did the burglary study authors check for baseline balance?
-320. What effects of the treatment did the burglary study reveal?
+320. What effects of the treatment - as measured by police records - did the burglary study reveal?
+
+#### Lesson 37 - Friday 5/6/22
+
+321. Describe the revictimization survey results from the burglary study.
+322. What effect did the treatment have on safety perceptions in the burglary study?
+323. What effect did the treatment have on perceptions of the police?
+324. What was the main methodological weakness of the burglary study?
+325. What unexpected finding emerged that might account for the apparently weak effects of the intervention?
+
+*Next reading*: we now turn to our final study of the semester examining the issue of retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
+
+326. 
