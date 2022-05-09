@@ -837,6 +837,8 @@ e. both a and b are correct
 *Note*: Today is the last regular class day of the semester. We are currently reviewing study 12 which examines the problem of retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf)). The final exam is scheduled for Tuesday 5/17/22 from 9:00-10:00am. The final exam is not cumulative. It covers the material we've been discussing since the last exam so you should be reviewing Lessons 28-38.
 
 334. What methodological concern could be raised about the retail theft prevention experiment as a whole?
-335. Describe the problem that might arise with using the mean as a measure of central tendency (typicality) in the retail theft prevention study.
-336. What could have been another approach to addressing the issue of sample size in the retail theft prevention study?
-337. 
+335. How did the control group change from the pre-test to the post-test in the retail theft prevention study?
+336. Explain the pattern of findings that emerged when comparing the treatment groups to the control group.
+337. What statistical test was being carried out in the retail theft prevention study?
+338. Describe the problem that might arise with using the mean as a measure of central tendency (typicality) in the retail theft prevention study.
+339. What could have been another useful approach to addressing the statistical analysis in the retail theft prevention study?
