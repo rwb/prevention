@@ -826,9 +826,17 @@ e. both a and b are correct
 326. What is the theoretical premise of the retail theft study?
 327. What two treatments were examined in the retail theft study?
 328. What was the logic behind the ePVM treatment?
-329. What was the logic behine the fixture treatment?
+329. What was the logic behind the fixture treatment?
 330. Describe the research design on which the retail theft study was based.
 331. What did the retail theft study authors mean by the term "shrinkage"?
 332. How was shrinkage measured in the retail theft study?
 333. What concern arises as a result of the pretest data in the retail theft study?
-334. What methodological concern could be raised about the experiment as a whole?
+
+#### Lesson 38 - Monday 5/9/22
+
+*Note*: Today is the last regular class day of the semester. We are currently reviewing study 12 which examines the problem of retail theft prevention ([link](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf)). The final exam is scheduled for Tuesday 5/17/22 from 9:00-10:00am. The final exam is not cumulative. It covers the material we've been discussing since the last exam so you should be reviewing Lessons 28-38.
+
+334. What methodological concern could be raised about the retail theft prevention experiment as a whole?
+335. Describe the problem that might arise with using the mean as a measure of central tendency (typicality) in the retail theft prevention study.
+336. What could have been another approach to addressing the issue of sample size in the retail theft prevention study?
+337. 
